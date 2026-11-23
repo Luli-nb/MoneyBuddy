@@ -1,0 +1,11 @@
+{
+  "title": "MoneyBuddy",
+  "description": "This platform helps young adults manage their finances by tracking income, categorizing expenses, and providing tax information while ensuring accessibility and data security.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
